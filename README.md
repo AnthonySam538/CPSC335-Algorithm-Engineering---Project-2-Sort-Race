@@ -16,7 +16,6 @@ This is a race between 4 sorting algorithms.
 
 ## Contents
 * main.html - Synthesizes all of the files together (except README.md) into an html page
-* p5.js - Contains a bunch of functions and such
 * README.md - Detailed information about the project (You're reading this file right now)
 * sort race.js - Contains the bulk of the programming (Requires the stuff in p5.js to work)
 * style.css - Supplemental visual details used by main.html
